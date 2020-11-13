@@ -1,0 +1,17 @@
+
+@media only screen and (max-width: 1140px){
+    .nav-list{
+        display: flex;
+        flex-direction: column;
+    }
+    body{
+        background-color: black;
+    }
+    .aboutme img{
+        width:800px;
+    }
+    .aboutme{
+        display: flex;
+        flex-direction: row;
+    }
+}
